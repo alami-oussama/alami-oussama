@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 ##
 I'm **Oussama Alami** an Artificial Intelligence Engineering Student from ENSIAS <i>(National School of Computer Science in Rabat, Morocco)</i>, I'm passionate about learning new skills related to software engineering and machine learning, and tuning theme into some real projects.
