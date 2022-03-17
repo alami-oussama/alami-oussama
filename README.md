@@ -7,41 +7,35 @@ I'm **Oussama Alami** an Artificial Intelligence Engineering Student from ENSIAS
 ### **Languages and Technologies:**
 <p float="left">
  <a href="https://www.python.org/">
-<img alt="Python" src="https://devstickers.com/assets/img/pro/p3jo.png" width="40">
+<img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40">
   </a>
- <a href="https://en.wikipedia.org/wiki/HTML">
-<img alt="HTML" src="https://devstickers.com/assets/img/pro/iqm9.png" width="40">
+ <a href="https://scikit-learn.org/">
+<img alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40">
   </a>
- <a href="https://en.wikipedia.org/wiki/CSS">
-<img alt="CSS3" src="https://devstickers.com/assets/img/pro/8pnd.png" width="40">
+ <a href="https://www.tensorflow.org/">
+<img alt="Tensoflow" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40">
   </a>
- <a href="https://en.wikipedia.org/wiki/JavaScript">
-<img alt="JavaScript" src="https://devstickers.com/assets/img/pro/i4eg.png" width="40">
+ <a href="https://keras.io/">
+<img alt="Keras" src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" width="40">
   </a>
- <a href="https://reactjs.org/">
-<img alt="React" src="https://devstickers.com/assets/img/pro/z392.png" width="40">
+ <a href="https://pytorch.org/">
+<img alt="PyTorch" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="40">
   </a>
- <a href="https://nodejs.org/en/">
-<img alt="Node.js" src="https://devstickers.com/assets/img/pro/iuw5.png" width="40">
-  </a>
- <a href="https://www.java.com/">
-<img alt="Java" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
-  </a>
- <a href="https://en.wikipedia.org/wiki/CPP">
-<img alt="C++" src="https://devstickers.com/assets/img/pro/35k9.png" width="40">
-  </a>
- <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-<img alt="C#" src="https://devstickers.com/assets/img/pro/2p4i.png" width="40">
+ <a href="https://pandas.pydata.org/">
+<img alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40">
   </a>
  <a href="https://git-scm.com/">
-<img alt="Git" src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
+<img alt="Git" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="40">
   </a>
- <a href="https://code.visualstudio.com/">
-<img alt="VS Code" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
-  </a>
- <a href="https://www.adobe.com/products/photoshop.html">
-<img alt="Adobe Photoshop" src="https://devstickers.com/assets/img/pro/k176.png" width="40">
-  </a>
+ <a href="https://jupyter.org/">
+<img alt="Jupyter" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40">
+ </a>
+ <a href="https://matplotlib.org/">
+<img alt="Matplotlib" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40">
+ </a>
+ <a href="https://www.r-project.org/">
+<img alt="R" src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" width="40">
+ </a>
 </p>
 
 ##
