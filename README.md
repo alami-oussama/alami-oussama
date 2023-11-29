@@ -41,4 +41,5 @@ I am **Oussama Alami** an Artificial Intelligence Engineering Student from ENSIA
 ##
 ## Find me around the web 🌎:
 - Sharing updates on <a href="https://www.linkedin.com/in/oussama2ia/">LinkedIn</a> 💼
+- Personal portfolio <a href="alamioussama.tech/">Portfolio</a> 🌐
 ##
