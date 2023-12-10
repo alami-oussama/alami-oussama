@@ -43,3 +43,5 @@ I am **Oussama Alami** an Artificial Intelligence Engineering Student from ENSIA
 - Sharing updates on <a href="https://www.linkedin.com/in/oussama2ia/">LinkedIn</a> 💼
 - Personal portfolio <a href="alamioussama.tech/">Portfolio</a> 🌐
 ##
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alami-oussama&show_icons=true&locale=en&layout=compact" alt="alami-oussama" /></p>
