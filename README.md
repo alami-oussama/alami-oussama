@@ -6,8 +6,8 @@ I am **Oussama Alami** an Artificial Intelligence Engineering Student from ENSIA
 
 ##
 ## Find me around the web 🌎:
-- Sharing updates on <a href="https://www.linkedin.com/in/oussama2ia/">LinkedIn</a> 💼
-- Personal portfolio <a href="alamioussama.tech/">Portfolio</a> 🌐
+- Sharing updates on <a href="https://linkedin.com/in/alami-oussama/">LinkedIn</a> 💼
+- Personal portfolio <a href="https://alamioussama.tech/">Portfolio</a> 🌐
 ##
 
 ### **Languages and Technologies:**
