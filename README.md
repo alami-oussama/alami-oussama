@@ -4,6 +4,12 @@
 I am **Oussama Alami** an Artificial Intelligence Engineering Student from ENSIAS <i>(National School of Computer Science in Rabat, Morocco)</i>, I am passionate about learning new skills related to software engineering and machine learning , and applying them to the development of real projects. I am always in touch with AI world, because AI is one of the fastest growing areas of software engineering.
 ##
 
+##
+## Find me around the web 🌎:
+- Sharing updates on <a href="https://www.linkedin.com/in/oussama2ia/">LinkedIn</a> 💼
+- Personal portfolio <a href="alamioussama.tech/">Portfolio</a> 🌐
+##
+
 ### **Languages and Technologies:**
 <p float="left">
  <a href="https://www.python.org/">
@@ -37,11 +43,5 @@ I am **Oussama Alami** an Artificial Intelligence Engineering Student from ENSIA
 <img alt="R" src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" width="40">
  </a>
 </p>
-
-##
-## Find me around the web 🌎:
-- Sharing updates on <a href="https://www.linkedin.com/in/oussama2ia/">LinkedIn</a> 💼
-- Personal portfolio <a href="alamioussama.tech/">Portfolio</a> 🌐
-##
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alami-oussama&show_icons=true&locale=en&layout=compact" alt="alami-oussama" /></p>
