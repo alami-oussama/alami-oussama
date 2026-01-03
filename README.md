@@ -43,5 +43,3 @@ I am **Oussama Alami** an Artificial Intelligence Engineer, I am passionate abou
 <img alt="R" src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" width="40">
  </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alami-oussama&show_icons=true&locale=en&layout=compact" alt="alami-oussama" /></p>
